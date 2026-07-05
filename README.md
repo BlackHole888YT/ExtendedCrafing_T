@@ -6,8 +6,8 @@ A custom Minecraft 1.21.1 mod that adds highly configurable crafting recipes wit
 
 Choose your preferred language:
 
-- 🇬🇧 **English Documentation** → [guide_en.md](README_EN.md)
-- 🇷🇺 **Русская документация** → [гайд_русский.md](README_RU.md)
+- 🇬🇧 **English Documentation** → [README_EN](guide_en.md)
+- 🇷🇺 **Русская документация** → [README_RU](гайд_русский.md)
 
 ## Features
 
