@@ -1,0 +1,77 @@
+{
+  "type": "extended_crafting_t:extended_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "ingredient": {
+        "item": "minecraft:iron_sword"
+      },
+      "consumable": false,
+      "deal_damage": 150,
+      "work_enchantments": true,
+      "item_after_consume": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "components": {
+          "minecraft:custom_data": {
+            "book_id": "minecraft:unbreaking",
+            "book_lvl": "2"
+          }
+        }
+      }
+    },
+    "R": {
+      "ingredient": {
+        "item": "minecraft:enchanted_book"
+      },
+      "book_id": "minecraft:sharpness",
+      "book_lvl": 5,
+      "count": 2
+    },
+    "G": {
+      "ingredient": {
+        "item": "minecraft:gold_block"
+      },
+      "count": 5
+    },
+    "A": {
+      "ingredient": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 2
+    }
+  },
+  "additional_conditions": {
+    "required_dimension": "overworld",
+    "xpCost": {
+      "value": 150,
+      "consumable": true
+    },
+    "xpLvl": {
+      "value": 15,
+      "consumable": false
+    },
+    "required_advancement": "minecraft:story/mine_diamond",
+    "required_hp": "max",
+    "required_time": {
+      "value": "day",
+      "interval": 200,
+      "interval_value": "tick"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "GAG",
+    "GGG"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:custom_data": {
+        "book_id": "minecraft:mending",
+        "book_lvl": "1"
+      }
+    }
+  }
+}

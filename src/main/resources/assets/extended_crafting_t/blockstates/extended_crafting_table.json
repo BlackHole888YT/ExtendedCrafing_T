@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extended_crafting_t:block/extended_crafting_table"
+    },
+    "facing=south": {
+      "model": "extended_crafting_t:block/extended_crafting_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extended_crafting_t:block/extended_crafting_table",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "extended_crafting_t:block/extended_crafting_table",
+      "y": 90
+    }
+  }
+}

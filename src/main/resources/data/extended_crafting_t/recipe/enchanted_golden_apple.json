@@ -1,0 +1,25 @@
+{
+  "type": "extended_crafting_t:extended_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "ingredient": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    "A": {
+      "ingredient": {
+        "item": "minecraft:golden_apple"
+      }
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanted_golden_apple"
+  }
+}

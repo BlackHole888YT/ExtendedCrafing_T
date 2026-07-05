@@ -1,0 +1,23 @@
+{
+  "ect_name": "Extended Crafting Table [%s]",
+  "container.extended_crafting": "Extended Crafting Table",
+  "ect.craft_req": "§nCRAFTING REQUIREMENTS§r",
+  "ect.current_time": "Time: §e%s ticks",
+  "ect.dimension": "Dimension: %s",
+  "ect.health": "Health: %s (%d/%d)",
+  "ect.health.max": "FULL HP",
+  "ect.health.suffix": "%s HP",
+  "ect.xp_cost": "XP (Cost): %s / %d",
+  "ect.xp_lvl": "Level: %s / %d",
+  "ect.time": "Time: %s (±%d)",
+  "ect.time.sunrise": "Sunrise",
+  "ect.time.day": "Noon",
+  "ect.time.noon": "Noon",
+  "ect.time.sunset": "Sunset",
+  "ect.time.night": "Midnight",
+  "ect.time.midnight": "Midnight",
+  "ect.advancement": "Advancement: %s",
+  "ect.no_recipe_line1": "§7Place a custom",
+  "ect.no_recipe_line2": "§7recipe to display",
+  "ect.no_recipe_line3": "§7its requirements."
+}

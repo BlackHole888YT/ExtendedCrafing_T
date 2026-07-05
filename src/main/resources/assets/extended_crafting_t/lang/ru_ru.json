@@ -1,0 +1,23 @@
+{
+  "ect_name": "Расширенный Верстак [%s]",
+  "container.extended_crafting": "Расширенный Верстак",
+  "ect.craft_req": "§nТРЕБОВАНИЯ КРАФТА§r",
+  "ect.current_time": "Время: §e%s тиков",
+  "ect.dimension": "Измерение: %s",
+  "ect.health": "Здоровье: %s (%d/%d)",
+  "ect.health.max": "ФУЛЛ ХП",
+  "ect.health.suffix": "%s ХП",
+  "ect.xp_cost": "Опыт (Cost): %s / %d",
+  "ect.xp_lvl": "Уровень: %s / %d",
+  "ect.time": "Время: %s (±%d)",
+  "ect.time.sunrise": "Рассвет",
+  "ect.time.day": "День",
+  "ect.time.noon": "Полдень",
+  "ect.time.sunset": "Закат",
+  "ect.time.night": "Ночь",
+  "ect.time.midnight": "Полночь",
+  "ect.advancement": "Достижение: %s",
+  "ect.no_recipe_line1": "§7Выложите кастомный",
+  "ect.no_recipe_line2": "§7рецепт для вывода",
+  "ect.no_recipe_line3": "§7его требований."
+}
